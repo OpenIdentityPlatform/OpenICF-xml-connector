@@ -35,21 +35,15 @@
     <version position="right"/>
     <googleAnalyticsAccountId>UA-23412190-10</googleAnalyticsAccountId>
     <body>
-        <breadcrumbs>
-			<item name="Developer Community" href="http://www.forgerock.org" />
-            <item name="OpenICF" href="http://openicf.forgerock.org"/>
-            <item name="Connectors" href="http://openicf.forgerock.org/connectors/index.html" />
-            <item name="XML Connector" href="http://openicf.forgerock.org/connectors/xml/index.html" />
-        </breadcrumbs>
         <menu name="Overview" img="images/arrow_right.png">
             <item name="Introduction" href="openicf-report.html"/>
             <item name="FAQ" href="faq.html"/>
         </menu>
 
         <menu name="XML Core Docs">
-            <!--item name="All Formats" href="docs.html" /-->
+            <item name="All Formats" href="docs.html" />
             <!--item name="Release Notes" href="./doc/release-notes/index.html" /-->
-            <item name="Developer Guide" href="./doc/xml-connector-1.1.0.2-SNAPSHOT/index.html" />
+            <item name="Developer Guide" href="./doc/xml-connector-${project.version}/index.html" />
         </menu>
         <menu ref="reports"/>
     </body>

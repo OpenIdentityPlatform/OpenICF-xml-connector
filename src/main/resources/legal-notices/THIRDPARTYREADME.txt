@@ -5,13 +5,9 @@ DO NOT TRANSLATE OR LOCALIZE
 Apache Software License, Version 2.0
 ***************************************************************************
 
-The following softwares may be included in this product:
-
-Name: xmlParserAPIs
 Version: xerces:xmlParserAPIs:2.6.2
 Copyright: Copyright 1999-2010 The Apache Software Foundation
 
-Name: XML Commons External Components XML APIs
 Version: xml-apis:xml-apis:1.3.04
 Copyright: Copyright 2006 The Apache Software Foundation.
 
@@ -95,13 +91,9 @@ limitations under the License.
 Common Development and Distribution License (CDDL-1.0)
 ***************************************************************************
 
-The following softwares may be included in this product:
-
-Name: Streaming API for XML
 Version: javax.xml.stream:stax-api:1.0-2
 Copyright: Copyright (c) 2003 by BEA Systems. All Rights Reserved.
 
-Name: xsom
 Version: com.sun.xsom:xsom:20070407
 Copyright: Copyright (c) 2010-2014 Oracle and/or its affiliates. All rights reserved.
 
@@ -244,9 +236,6 @@ As between Initial Developer and the Contributors, each party is responsible for
 Mozilla Public License version 1.0
 ***************************************************************************
 
-The following softwares may be included in this product:
-
-Name: saxon9he
 Version: net.sf.saxon:saxon9he:9.4.0.1
 Copyright: @author Michael H. Kay
 
@@ -365,11 +354,11 @@ Contributor(s): ______________________________________."
 The BSD 3-Clause License
 ***************************************************************************
 
-The following softwares may be included in this product:
-
-Name: jaxen
 Version: jaxen:jaxen:1.1.1
 Copyright: Copyright 2003-2006 The Werken Company. All Rights Reserved.
+
+Version: relaxngDatatype:relaxngDatatype:20020414
+Copyright: Copyright (c) 2001, Thai Open Source Software Center Ltd, Sun Microsystems. All Rights Reserved.
 
 ==================
 Full license text:
@@ -395,50 +384,6 @@ IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED
 TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
 PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER
 OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
-EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
-PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
-PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
-LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
-NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
-SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-
-***************************************************************************
-Thai Open Source Software Center
-***************************************************************************
-
-Name: relaxngDatatype
-Version: relaxngDatatype:relaxngDatatype:20020414
-Copyright: Copyright (c) 2001, Thai Open Source Software Center Ltd, Sun Microsystems. All Rights Reserved.
-
-==================
-Full license text:
-==================
-
-Copyright (c) 2001, Thai Open Source Software Center Ltd, Sun Microsystems.
-All rights reserved.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are
-met:
-
-    Redistributions of source code must retain the above copyright
-    notice, this list of conditions and the following disclaimer.
-
-    Redistributions in binary form must reproduce the above copyright
-    notice, this list of conditions and the following disclaimer in
-    the documentation and/or other materials provided with the
-    distribution.
-
-    Neither the names of the copyright holders nor the names of its
-    contributors may be used to endorse or promote products derived
-    from this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
-LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
-A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE REGENTS OR
-CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
 EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
 PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
 PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
